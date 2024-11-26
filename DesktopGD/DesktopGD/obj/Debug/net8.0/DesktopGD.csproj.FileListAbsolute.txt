@@ -1,0 +1,15 @@
+C:\helloworld-001\DesktopGD\DesktopGD\bin\Debug\net8.0\DesktopGD.exe
+C:\helloworld-001\DesktopGD\DesktopGD\bin\Debug\net8.0\DesktopGD.deps.json
+C:\helloworld-001\DesktopGD\DesktopGD\bin\Debug\net8.0\DesktopGD.runtimeconfig.json
+C:\helloworld-001\DesktopGD\DesktopGD\bin\Debug\net8.0\DesktopGD.dll
+C:\helloworld-001\DesktopGD\DesktopGD\bin\Debug\net8.0\DesktopGD.pdb
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.GeneratedMSBuildEditorConfig.editorconfig
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.AssemblyInfoInputs.cache
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.AssemblyInfo.cs
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.csproj.CoreCompileInputs.cache
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.sourcelink.json
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.dll
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\refint\DesktopGD.dll
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.pdb
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\DesktopGD.genruntimeconfig.cache
+C:\helloworld-001\DesktopGD\DesktopGD\obj\Debug\net8.0\ref\DesktopGD.dll
